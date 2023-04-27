@@ -1,0 +1,39 @@
+.tarjeta {
+    margin: 2%;
+    display: inline-block;
+
+
+        
+}
+h1 {
+    color: orangered;
+    background-color: rgb(13, 14, 15); margin-right: 850px;
+    font-size: 50px;
+      }
+     h2 {
+      color: orangered;
+      background-color: rgb(13, 14, 15); margin-right: 770px;
+     
+     }
+     h3{ 
+      color: whitesmoke;
+      background-color: black;
+      margin-top: 150px; margin-bottom: 50px;
+     }
+   
+    #fondo { 
+        opacity: 0.5;
+    }
+      
+    body {
+      background-color: orange;
+      
+        font-family: 'VT323';font-size: 22px;
+        background-image: url("../img/fondo2.jpeg");
+    }
+    p{
+      color: orange;
+      background-color: rgb(13, 14, 15);
+    }
+      
+  
