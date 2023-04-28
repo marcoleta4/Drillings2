@@ -6,19 +6,19 @@
         
 }
 h1 {
-    color: orangered;
+    color: orange;
     background-color: rgb(13, 14, 15); margin-right: 850px;
     font-size: 50px;
       }
      h2 {
-      color: orangered;
+      color: orange;
       background-color: rgb(13, 14, 15); margin-right: 770px;
      
      }
      h3{ 
       color: whitesmoke;
       background-color: black;
-      margin-top: 150px; margin-bottom: 50px;
+      margin-top: 150px; margin-bottom: 50px; margin-right: 1350px;
      }
    
     #fondo { 
@@ -31,7 +31,7 @@ h1 {
         font-family: 'VT323';font-size: 22px;
         background-image: url("../img/fondo2.jpeg");
     }
-    p{
+    .parrafo {
       color: orange;
       background-color: rgb(13, 14, 15);
     }
