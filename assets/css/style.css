@@ -13,7 +13,7 @@
   transition: 1.4s ease;
 }
 .tarjeta img:hover {
-  cursor: crosshair;
+ 
   width: 300px;
   opacity: 1;
   filter: contrast(120%);

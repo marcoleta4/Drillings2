@@ -12,11 +12,11 @@ fetch(url)
     contenido.innerHTML += `
     <div class="tarjeta">
         <div class="card" style="width: 18rem;">
-        <img  src="${item.img}" class="card-img-top" alt="..." img src="./assets/img/cursor3.cur" style="cursor: url(./assets/img/cursor3.cur), auto;">
+        <img  src="${item.img}" class="card-img-top" alt="..." img src="./assets/img/cursor3.cur" style="cursor: url(./assets/img/cursor3.cur), auto;">>
         <div class="card-body">
           <h5 class="card-title">${item.name}</h5>
           <p class="card-text">${item.level}</p>
-          <a "href="${item.img}" class="btn btn-primary" img src="./assets/img/cursor3.cur" style="cursor: url(./assets/img/cursor3.cur), auto;">>eligéme</a>
+          <a href="${item.img}" class="btn btn-primary" img src="./assets/img/cursor3.cur" style="cursor: url(./assets/img/cursor3.cur), auto;">eligéme</a>
         </div>
         </div>
     </div>    
